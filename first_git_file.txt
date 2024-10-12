@@ -1,1 +1,2 @@
-first git file putshing to into git hub
+first git file putshing to into git hubi
+second line pushing to git
